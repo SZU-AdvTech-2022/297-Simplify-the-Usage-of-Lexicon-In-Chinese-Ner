@@ -1,0 +1,7 @@
+@inproceedings{REPO-298,
+    author = "Ma, Ruotian and Peng, Minlong and Zhang, Qi and Wei, Zhongyu and Huang, Xuanjing",
+    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    pages = "5951--5960",
+    title = "{Simplify the Usage of Lexicon in {C}hinese {NER}}",
+    year = "2020"
+}
